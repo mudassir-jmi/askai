@@ -1,4 +1,5 @@
-# Build and Deploy Your Own ChatGPT AI Application askai
+# Build and Deploy Your Own ChatGPT AI Application using OpenAIApi
 
-Here is the demo link please check it  - https://askai-psi.vercel.app/![chatgpt]![chatgpt](https://user-images.githubusercontent.com/64970467/212687084-45aa4d04-7e25-43fa-82e5-8729e4f97416.jpg)
+Here is the demo link please check it  - https://askai-psi.vercel.app/
 
+In this use HTML, CSS, JavaScript and express for backend 
